@@ -1,5 +1,7 @@
 package griffith;
 
+//Vsevolod Yushchuk 3132335
+
 public class Grades {
     public int gradesMax(int[] grades) {
         return 0; 
